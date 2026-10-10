@@ -1,0 +1,13 @@
+bca = https://zonalogo.com/assets/logo-bank-central-asia.webp
+bni = https://zonalogo.com/assets/logo-bank-bni.webp
+bca_transfer = https://zonalogo.com/assets/logo-bank-central-asia.webp
+va_bca = https://zonalogo.com/assets/logo-bank-central-asia.webp
+va_bni = https://zonalogo.com/assets/logo-bank-bni.webp
+va_bri = https://images.seeklogo.com/logo-png/64/2/bri-2025-logo-png_seeklogo-642843.png
+va_mandiri = https://zonalogo.com/assets/logo-bank-mandiri.webp
+va_permata = https://zonalogo.com/assets/logo-bank-permata.webp
+va_cimb = https://zonalogo.com/assets/logo-bank-cimb-niaga.webp
+va_bsm = https://zonalogo.com/assets/logo-bank-bsi.webp
+va_danamon = https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Danamon_%282024%29.svg/1280px-Danamon_%282024%29.svg.png
+va_seabank = https://zonalogo.com/assets/logo-seabank.webp
+qris = https://cdn-icons-png.flaticon.com/512/5968/5968705.png
